@@ -1,0 +1,1 @@
+FROM golang AS base
